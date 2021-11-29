@@ -1,4 +1,4 @@
-package com.MoetazZaghdoudiAmineSmati.unscramble.ui.game
+package com.moetazZaghdoudiAmineSmati.unscramble.ui.game
 
 const val MAX_NO_OF_WORDS = 10
 const val SCORE_INCREASE = 20

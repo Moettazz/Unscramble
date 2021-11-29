@@ -1,4 +1,4 @@
-package com.MoetazZaghdoudiAmineSmati.unscramble
+package com.moetazZaghdoudiAmineSmati.unscramble
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

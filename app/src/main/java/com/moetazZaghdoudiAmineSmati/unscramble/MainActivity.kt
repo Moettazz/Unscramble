@@ -1,4 +1,4 @@
-package com.MoetazZaghdoudiAmineSmati.unscramble
+package com.moetazZaghdoudiAmineSmati.unscramble
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
